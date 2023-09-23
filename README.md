@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="githubcard.svg"/>
+<img align="right" height="590em" src="githubcard.png"/>
 
 Hi there! Greetings from Brazil 🇧🇷
 
